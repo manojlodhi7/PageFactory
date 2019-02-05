@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9307" started-at="2019-02-05T04:23:12Z" finished-at="2019-02-05T04:23:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9307" started-at="2019-02-05T04:23:12Z" finished-at="2019-02-05T04:23:21Z">
+      <class name="testClasses.Test01">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testClasses.Test01@66982506]" name="openBrowser" is-config="true" duration-ms="4904" started-at="2019-02-05T09:53:12Z" finished-at="2019-02-05T09:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:testClasses.Test01@66982506]" name="googleSearch" duration-ms="3711" started-at="2019-02-05T09:53:16Z" finished-at="2019-02-05T09:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testClasses.Test01@66982506]" name="closeBrowser" is-config="true" duration-ms="671" started-at="2019-02-05T09:53:20Z" finished-at="2019-02-05T09:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testClasses.Test01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
